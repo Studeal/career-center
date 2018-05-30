@@ -1,7 +1,7 @@
 # PHP/Symfony Developer
 ## STUDEAL
 Studeal, c’est aujourd'hui LA plateforme de référence en terme de gestion d'associations étudiantes. Près de 800 associations et des dizaines de milliers d’étudiants nous font aujourd'hui confiance.
-Mais ce n'est pas tout ! Studeal se développe aujourd'hui afin de permettre à tout type de communauté (ALUMNI, réseaux d'entrepreneurs ...) d'avoir son propre outil de gestion et d'animation et de booster l'engagement de leurs membres.
+Mais ce n'est pas tout ! Studeal se développe aujourd'hui afin de permettre à tout type de communauté (ALUMNI, réseaux d'entrepreneurs ...) d'avoir leur propre outil de gestion et d'animation afin de booster l'engagement de leurs membres.
 Alors ? Envie de nous rejoindre et de vivre une aventure passionnante ?!
 
 ## TA MISSION SI TU L’ACCEPTES
