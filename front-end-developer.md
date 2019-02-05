@@ -8,6 +8,7 @@ Alors ? Envie de nous rejoindre et de vivre une aventure passionnante ?!
 Notre but ? Faire de Wenity l’outil incontournable pour la gestion et l'animation de communautés. Parmi tes missions en tant que développeur(se) Front-end :
 * Intégration HTML/CSS/JS des maquettes réalisées par nos UX/UI Designer
 * Développement de modules/briques en JS comme un fil d'actualité, une recherche avancée (avec Algolia) ...
+* Développement de la partie Progressive Web App de l'application web
 * Recherche de nouvelles technos, fonctionnalités … du fun quoi !
 
 Chez Studeal toutes les idées sont bonnes à prendre, on attend les tiennes !
